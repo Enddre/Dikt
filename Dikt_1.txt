@@ -3,5 +3,6 @@ Et dikt
 Dette er et dikt
 Dikt er fine
 Dikt er kort 
+Dikt kan være dårlige
 Dikt har en mening
 men denne har ingen mening
