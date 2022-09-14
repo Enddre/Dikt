@@ -1,8 +1,8 @@
-Et dikt
+Ingen dikt her dikt
 
-Dette er et dikt
-Dikt er fine
-Dikt er kort 
-Dikt kan være dårlige
-Dikt har en mening
-men denne har ingen mening
+Dette er ikke et dikt
+Dikt er ikke fine
+Dikt er ikke korte 
+Dikt kan ikke være dårlige
+Dikt har ikke en mening
+men denne har en mening
